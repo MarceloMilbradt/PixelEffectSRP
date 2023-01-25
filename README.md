@@ -1,5 +1,5 @@
 # Pixel Effect Shader
-A Low-res Effect using the URP Scriptable Render Pipeline
+A Low-res Effect using the URP Scriptable Render Pipeline (for unity URP version 2021, broken in 2022)
 
 ## How to
 - Used as a Render feature
